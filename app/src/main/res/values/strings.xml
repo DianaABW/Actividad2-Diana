@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActPermisos</string>
+
+
+    <string name="Titulo">Actividad2</string>
+    <string name="camara">Permiso de Camara</string>
+    <string name="huella">Permiso de huella</string>
+    <string name="bluetooth">Permiso de hubicacion</string>
+    <string name="call">Permiso de hubicacion</string>
+
+    <string name="button1">Solicitar permisos</string>
+    <string name="button2">Verificar permisos</string>
+</resources>
